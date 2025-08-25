@@ -1,37 +1,69 @@
-# StatelessStates MVP Sample
-
-![StatelessStates Banner](assets/banner.png)
-
-This repository contains a sample extract from **The StatelessStates Project**.  
-It demonstrates three key areas of my work:
-
-1. **Secure Token Authentication** – lightweight implementation with PQC-ready concepts.  
-2. **The Janitor** – a system hygiene watchdog for process monitoring, log sanitisation, and intrusion detection.  
-3. **Quantum-Ready Interfaces** – early exploration of post-quantum encryption and modular architecture.
-4. 
+[![StatelessStates Banner](assets/banner.png)](https://github.com/Aztex121/statelessstates-mvp-sample)
 
 ---
 
-## Tech Stack
-- **Languages**: Python, Rust, JavaScript (Node.js), C++  
-- **AI/ML**: PyTorch, TensorFlow, OpenAI API  
-- **Security**: Zero-trust models, AES/RSA, PQC concepts  
-- **Systems**: Linux, Docker, Kubernetes  
+# StatelessStates™ MVP Sample  
+**Quantum-Ready Security for a Stateless Future**
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Status](https://img.shields.io/badge/Status-Prototype-yellow)](https://github.com/Aztex121/statelessstates-mvp-sample)  
+[![Security](https://img.shields.io/badge/Security-Post--Quantum%20Ready-orange)](#)
 
 ---
 
-⚡ This is a demonstration repository for recruitment purposes.  
-Full project remains under development within *The StatelessStates* ecosystem.
+## Overview
+This repository contains a sample extract from **The StatelessStates™ Project**,  
+developed under **Genesis Systems**.  
+
+It demonstrates three foundational security layers:  
+- Secure Token Authentication  
+- PQC-Ready Interface (Post-Quantum Cryptography)  
+- System Hygiene Watchdog ("The Janitor")  
 
 ---
 
-## How to Run
+## System Flow Diagram
 
-Clone the repository and run the sample modules with Python 3:
+The following diagram illustrates how requests move through the system:
 
-```bash
-# Secure Token Authentication demo
-python auth.py
+![StatelessStates MVP Flow](assets/diagram.png)
 
-# System Hygiene Watchdog demo
-python janitor.py
+1. User / Client → initiates request  
+2. Secure Token Auth → verifies identity & session integrity  
+3. PQC-Ready Interface → applies post-quantum encryption layer  
+4. System Hygiene Watchdog ("The Janitor") → monitors, enforces, and cleans system state  
+5. StatelessStates Core → trusted execution environment  
+
+---
+
+## Repository Contents
+- `auth/` → Secure token authentication module  
+- `pqc_interface/` → Post-quantum crypto-ready interface  
+- `janitor/` → System hygiene watchdog prototype  
+- `README.md` → Project overview (this file)  
+
+---
+
+## Key Features
+- Post-Quantum Ready → Future-proof encryption & security  
+- Self-Monitoring → Autonomous system hygiene enforcement  
+- Layered Security → Zero-trust design from user to core  
+- Modular Design → Easily extended into larger StatelessStates™ architecture  
+
+---
+
+## Roadmap
+- Integration with QuantumSim for fintech testing  
+- Expansion into Genesis Systems' Mother Core  
+- Formal compliance review for government & enterprise adoption  
+
+---
+
+## Contact
+For partnership or investor discussions:  
+**NordicCircle@proton.me**
+
+---
+
+© 2025 Genesis Systems · StatelessStates™

@@ -1,5 +1,7 @@
 # StatelessStates MVP Sample
 
+![StatelessStates Banner](assets/banner.png)
+
 This repository contains a sample extract from **The StatelessStates Project**.  
 It demonstrates three key areas of my work:
 
